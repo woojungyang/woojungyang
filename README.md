@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F0A711&height=300&section=header&text=WooJungYang&fontSize=70" />
 </p>
-[![woojung's github stats](https://github-readme-stats.vercel.app/api?username=woojungyang&show_icons=true&theme={theme})](https://github.com/woojungyang/github-readme-stats)
 
 ### Hi there 👋
 
