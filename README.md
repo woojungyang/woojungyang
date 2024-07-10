@@ -1,16 +1,22 @@
-<!-- <div align="center">
-<h1>  Hi there 👋, my name is WooJung </h1> 
+<!-- 
 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojungyang&count_bg=%23FFB7E8&title_bg=%23FB2F7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woojungyang)
+ 
+
+<!--  
+
+   -->
+
+   <div align="center">
+<h1>  Hi there 👋, my name is WooJung </h1> 
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojungyang&count_bg=%23FFB7E8&title_bg=%23FB2F7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woojungyang)
 
 ![I am web developer](https://mblogthumb-phinf.pstatic.net/MjAxOTA5MDdfMjA3/MDAxNTY3ODY2NDU0NDcy.Ewi2bKw8RxzgcWZH-KQ8X1OGzWiM8nK7T-WyHfEGMG0g.F9QOvpsdNFIKgeemrnp6DdA-WcqAQhG77I6I3katf3og.GIF.studygir/uushGyr_%287%29.gif?type=w2)
   
 
-<!--   <p>🌱 I’m currently learning web develop </p>
+ <p>🌱 I’m currently learning web develop </p>
   <p>📫 How to reach me: woojungyang@gmail.com </p>
-
-   -->
   
 
   🖱️Front-end Dev-tools🖱️
@@ -46,7 +52,7 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/>
 
-  
+  </div>
 <!--   🖱️Back-end Dev-tools🖱️
 ---
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -68,6 +74,6 @@
 
   
   
-</div> -->
+ -->
 
 
