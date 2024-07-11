@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=GitHub&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Bitbuket-0052CC?style=flat-square&logo=Bitbuket&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Bitbuket-0052CC?style=flat-square&logo=bitbuket&logoColor=white"/> 
 
    🖱️Cooperation tools🖱️
 
