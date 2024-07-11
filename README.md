@@ -45,8 +45,16 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=GitHub&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Bitbuket-0052CC?style=flat-square&logo=Bitbuket&logoColor=white"/> 
 
-🖱️Design Dev-tools🖱️
+   🖱️Cooperation tools🖱️
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>  
+ 
+
+🖱️Design tools🖱️
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
