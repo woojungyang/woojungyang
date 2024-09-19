@@ -18,6 +18,7 @@
 
  <p>🌱 I’m currently learning web develop </p>
   <p>📫 How to reach me: woojungyang@gmail.com </p>
+  <br/>
   
 
   🖱️Front-end Dev-tools🖱️
@@ -35,7 +36,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material Design-757575?style=flat-square&logo=Material Design&logoColor=white"/>
 <br>  
-
+  <br/>
   
   🖱️Common Dev-tools🖱️
 
@@ -47,7 +48,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white"/> 
-
+  <br/>
    🖱️Cooperation tools🖱️
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
